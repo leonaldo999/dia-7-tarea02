@@ -7,3 +7,5 @@ crear archivo navegacion.html (ejemplo de menu perfecto)
 crear archivo tablas.html (ejemplo de tablas)
 crear archivo imagenes.html (ejemplo de imagenes)
 crear archivo audio_video.html (ejemplo de audio y video)
+Crear archivo formularios.html
+    Describir los inputs, selects, text area etc, etiquetas html5 nuevas(input) ,  atributos nuevos, required,disabled, min, max, maxlength
